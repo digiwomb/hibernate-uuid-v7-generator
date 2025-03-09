@@ -30,7 +30,7 @@ The library provides the `@UuidV7Generator` annotation, which can be used in Hib
 
 ```kotlin
 import jakarta.persistence.*
-import uuidv7.UuidV7Generator
+import dev.digiwomb.uuidv7.UuidV7Generator
 import java.util.UUID
 
 @Entity
